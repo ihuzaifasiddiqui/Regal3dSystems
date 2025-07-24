@@ -16,7 +16,7 @@ const Contact = () => {
         </div>
 
         <div className="mb-0 bg-white rounded-lg shadow-lg p-6 ml-2 sm:p-8 w-full max-w-2xl lg:ml-20">
-          <form className="space-y-6" action="https://formsubmit.co/huzaifa@duck.com" method="POST" >
+          <form className="space-y-6" action="https://formsubmit.co/regal3dsystems@gmail.com" method="POST" >
           <input type="hidden" name="_captcha" value="false"></input>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
