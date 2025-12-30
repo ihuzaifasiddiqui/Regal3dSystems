@@ -10,7 +10,7 @@ import logo from '../assets/Regal3dhorizontal.png';
             <Navbar/>
         
           <div
-          className="w-full h-screen bg-linear-to-b bg-[url(./assets/herosection2.png)] bg-cover bg-fixed bg-center bg-no-repeat z-0"> 
+          className="relative w-full h-screen bg-linear-to-b bg-[url(./assets/herosection2.png)] bg-cover bg-fixed bg-center bg-no-repeat z-0"> 
             <div className='absolute inset-0 bg-gradient-to-b from-black/40 to-black/20 z-10'></div>
 
           {/* Logo in top left corner */}

@@ -19,20 +19,20 @@ const About = () => {
             </h2>
             <p className="text-sm md:text-base text-gray-300">
               With over <strong>4+ years of hands-on experience</strong> in
-              additive manufacturing and product development,
+              additive manufacturing and product development,{" "}
               <strong>Habeeb</strong> has engineered a wide range of custom 3D
               printers — from
-              <strong>large-format FDM systems</strong> and{" "}
+              <strong> large-format FDM systems</strong> and{" "}
               <strong>pellet extruders</strong> to{" "}
               <strong>bio 3D printers</strong> and advanced{" "}
               <strong>dual-nozzle IDEX setups</strong>. His expertise spans the
               full product development cycle, including{" "}
               <strong>3D design</strong>, <strong>prototyping</strong>,{" "}
-              <strong>CNC machining</strong>,<strong>laser cutting</strong>, and{" "}
+              <strong>CNC machining</strong>, {" "}<strong>laser cutting</strong>, and{" "}
               <strong>metal fabrication</strong>. Deeply involved in the
               automotive and manufacturing sectors, he focuses on{" "}
               <strong>reverse engineering</strong>,{" "}
-              <strong>custom part fabrication</strong>, and
+              <strong>custom part fabrication</strong>, and{" "}
               <strong>design optimization</strong>. A strong advocate for
               digital manufacturing, he regularly leads{" "}
               <strong>workshops</strong> to inspire and equip future engineers.
